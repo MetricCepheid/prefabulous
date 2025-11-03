@@ -5,17 +5,11 @@ VisualStudioVersion = 17.11.35431.28
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MiloLib", "MiloLib\MiloLib.csproj", "{B4088E99-E76E-4053-A29C-19FC39CA4628}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiloEditor", "MiloEditor\MiloEditor.csproj", "{9744164D-B65F-406A-9244-A4418BB0B00D}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiloLib.Tests", "MiloLib.Tests\MiloLib.Tests.csproj", "{D7F69641-5BBE-4044-8F96-ED9A7133D5DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiloUtil", "MiloUtil\MiloUtil.csproj", "{B39415F3-213A-4307-9B93-D679792781C2}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImMilo", "ImMilo\ImMilo.csproj", "{C77D0F65-A9E9-45A9-BD0F-82460D62BBFF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prefabulous", "Prefabulous\Prefabulous.csproj", "{B39415F3-213A-4307-9B93-D679792781C2}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiloIcons", "MiloIcons\MiloIcons.csproj", "{CF9118C0-5F5E-471A-8A3D-A523AE7FFA66}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiloVerifier", "MiloVerifier\MiloVerifier.csproj", "{05CDDBB6-6789-450B-B6F6-B052CF57ECFE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
