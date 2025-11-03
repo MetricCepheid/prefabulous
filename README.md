@@ -8,6 +8,7 @@ This script was written by ai, its just a copy paste of ImportAsset from ImMilo 
 ## Usage
 `Prefabulous <scenePath> <bandCharDescPath>`
 `Prefabulous scene.milo_xbox prefab_custom_name`
+`Prefabulous scene.milo_ps3 prefab_custom_name`
 
 ## Credits
 
